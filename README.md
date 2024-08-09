@@ -1,9 +1,9 @@
 # sudoku-solver
-This is my beginner project using frontend technologies HTML, CSS and JavaScript.
-I used VSCode as IDE. I used live-server as server in VSCode. You can check the official documentation [ https://github.com/ritwickdey/vscode-live-server ] to know how to install ans use live server.
+This is my first practise work in which when a user inputs a sudoku, The code gives the solution to the sudoku. I have used frontend technologies HTML, CSS and JavaScript.
+I used VSCode as IDE. I used live-server as server in VSCode. You can check the official documentation [ https://github.com/ritwickdey/vscode-live-server ] to know how to install and use live server.
 
 ## How to use
-### After installing VScode and live server follow the below steps.
+### Follow the below steps.
   ### 1. Right click in 'index.html' page.
   ### 2. Click on Open with Live server. It redirects you to the default browser displaying index.html page (Landing Page) 
   ![](images/landing_page.png)
